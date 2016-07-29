@@ -22,6 +22,7 @@
 
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
+* [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 
 ### 按钮 
 
@@ -52,6 +53,10 @@
 ### 输入框
 
 * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift.
+
+### 日历
+
+* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - Simple customizable calendar in Swift.
 
 ### 隐私
 
