@@ -12,6 +12,7 @@
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
 * [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) - Customizable simple Alert and simple ActionSheet for Swift
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Implementation of wobble effect for any view in app.
+* [SubscriptionPrompt](https://github.com/Binur/SubscriptionPrompt) - A customizable UIViewController with a carousel at the top and a number of rows at the bottom.
 
 ### 图表
 
