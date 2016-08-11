@@ -38,7 +38,7 @@
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 * [MaskZoomTransition](https://github.com/stephsharp/MaskZoomTransition) - 一个物质化设计的转场动画 A Material Design-inspired transition.
-* [](https://github.com/mcmatan/ImageOpenTransition) - 打开图片的转场动画。 Beautiful and precise transitions between ViewControllers images written in Swift.
+* [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - 打开图片的转场动画。 Beautiful and precise transitions between ViewControllers images written in Swift.
 
 ### 通知
 
