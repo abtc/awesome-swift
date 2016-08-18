@@ -39,6 +39,7 @@
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 * [MaskZoomTransition](https://github.com/stephsharp/MaskZoomTransition) - 一个物质化设计的转场动画 A Material Design-inspired transition.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - 打开图片的转场动画。 Beautiful and precise transitions between ViewControllers images written in Swift.
+* [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - 匹配颜色的标签栏。
 
 ### 通知
 
@@ -46,15 +47,18 @@
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [Whisper](https://github.com/hyperoslo/Whisper) - Break the silence of your UI, whispering, shouting or whistling at it
 
-### 加载框 & Splash
+### 加载, 进度 & Splash
 
 * [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - Lightweight loading activity HUD
 * [VideoSplash](https://github.com/toygar/VideoSplash.git) - Video based UIViewController
+* [PageControls](https://github.com/popwarsweet/PageControls) - 自定义的页面控制条  custom page controls
 
 ### 照片 & 拍照
 
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker. :camera:
 * [PixPic](https://github.com/Yalantis/PixPic) - 国外团队开发的一个照片编辑App。 A Photo Editing App
+* [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - 类似 Prisma 的自定义的拍照，照片选择器和图片编辑器。 Custom camera, image picker ,image editor and the interface just like Prisma's style.
+
 
 ### 键盘 & 输入框
 
@@ -75,4 +79,5 @@
 * [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
 * [Hue](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
 * [Translucid](https://github.com/Ekhoo/Translucid) - 把图片设为字体背景的库。 Lightweight library to set an Image as text background.
+* [EZYGradientView](https://github.com/shashankpali/EZYGradientView) - 可以设置渐变的图层。 Create gradients and blur gradients without a single line of code
 
