@@ -14,6 +14,7 @@
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Implementation of wobble effect for any view in app.
 * [SubscriptionPrompt](https://github.com/Binur/SubscriptionPrompt) - A customizable UIViewController with a carousel at the top and a number of rows at the bottom.
 * [PopupDialog](https://github.com/Orderella/PopupDialog) - 一个简单的，可定制的弹出对话框。 A simple, customizable popup dialog for iOS written in Swift.
+* [AHKActionSheet](https://github.com/fastred/AHKActionSheet) - 一个背景透明的动作表格。An alternative to the UIActionSheet inspired by the Spotify app.
 
 ### 图表
 
@@ -40,6 +41,8 @@
 * [MaskZoomTransition](https://github.com/stephsharp/MaskZoomTransition) - 一个物质化设计的转场动画 A Material Design-inspired transition.
 * [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - 打开图片的转场动画。 Beautiful and precise transitions between ViewControllers images written in Swift.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - 匹配颜色的标签栏。
+* [CardAnimation](https://github.com/seedante/CardAnimation) - 卡片切换的动画效果。
+* [ExpandingCollection](https://github.com/Ramotion/expanding-collection) - 卡片弹出式的控制器 ExpandingCollection is a card peek/pop controller
 
 ### 通知
 
@@ -52,6 +55,7 @@
 * [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - Lightweight loading activity HUD
 * [VideoSplash](https://github.com/toygar/VideoSplash.git) - Video based UIViewController
 * [PageControls](https://github.com/popwarsweet/PageControls) - 自定义的页面控制条  custom page controls
+* [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - 一个漂亮的页面控制条 A rubber animation pagecontrol
 
 ### 照片 & 拍照
 
